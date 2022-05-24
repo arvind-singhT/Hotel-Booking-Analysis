@@ -1,5 +1,5 @@
 # Hotel-Booking-Analysis
-In this Hotel Booking dataset I have drawn some major insights using Python, different python libraries(like Pandas, Matplotlib, Seaborn, Plotly) aand Jupyter notebook. 
+In this Hotel Booking dataset I have drawn some major insights using Python, different python libraries(like Pandas, Matplotlib, Seaborn, Plotly) and Jupyter notebook. 
 
 
 The dataset contains data from two different hotels. One Resort hotel and one City hotel.
@@ -30,3 +30,6 @@ Topics covered and questions to answer from the data:
 > How many bookings were canceled?
  
 > Which month have the highest number of cancelations?
+
+Plotly graphs are not visible on github. So here is the link through which the notebook can be viewed properly :
+https://nbviewer.org/github/arvind-singhT/Hotel-Booking-Analysis/blob/main/Hotel_Booking_Analysis.ipynb
